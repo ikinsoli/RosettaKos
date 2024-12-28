@@ -1,5 +1,13 @@
 # Dokumentasi Detail RosettaKos
 
+## Informasi Kelompok
+- **Nomor Kelompok**: 07
+- **Nama & NIM Anggota**
+1. Ikin Solihin - 24130300007 
+2. Randi Ranata - 24130500004 
+3. Muhammad Reza Nur Akbar - 24130500012 
+4. Isfan Fazar Satria - 24130300011
+
 ## 1. KONSTANTA DAN ARRAY DASAR
 
 ### Konstanta
